@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectGeo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectGeo_jar</output-path>
+    <root id="archive" name="ProjectGeo.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/Intellij/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ProjectGeo" />
+      <element id="extracted-dir" path="G:/E pan/supermap-iobjectsjava-9.1.1-16828-70590-win-all/Bin_x64/com.supermap.data.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="G:/E pan/supermap-iobjectsjava-9.1.1-16828-70590-win-all/Bin_x64/com.supermap.analyst.spatialanalyst.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
